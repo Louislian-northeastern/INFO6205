@@ -1,8 +1,9 @@
 # INFO6205
 
 ## Documents report
-It is in /report
-New one is Assignment_2_report
+It is in /report.
+
+New one is Assignment_2_report.
 
 ## Download to local files
 
