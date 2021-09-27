@@ -1,5 +1,13 @@
 # INFO6205
 
+## Coder
+
+Yuan Lian
+
+NUID: 001063563
+
+
+
 ## Documents report
 It is in /report.
 
