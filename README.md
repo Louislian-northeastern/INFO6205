@@ -6,12 +6,13 @@ Yuan Lian
 
 NUID: 001063563
 
-
+## Assignment
+Code is in src/main/java/edu/neu/coe/info6205/union_find/UF_HWQUPC.java
 
 ## Documents report
 It is in /report.
 
-New one is Assignment_2_report.
+New one is Assignment_3_report.
 
 ## Download to local files
 
